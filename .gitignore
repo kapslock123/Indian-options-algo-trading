@@ -1,3 +1,5 @@
 **/.env
-**/nuvama_api_notebook.ipynb
+# **/nuvama_api_notebook.ipynb
 **/nuvama_options_trader.ipynb
+**/data_bLn*
+**/*.log
